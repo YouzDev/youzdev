@@ -1,5 +1,5 @@
 ## Hi 👋 / Salut 👋
-### My name is [Youssef Zitouni](https://www.yz.zitouni.dev/).
+### My name is [Youssef Zitouni](https://yz.zitouni.dev/).
 
 <img align="right" max-width="50%" alt="gif" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" width="500"/>
 
