@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi 👋 / Salut 👋
+### My name is [Youssef Zitouni](https://www.yz.zitouni.dev/).
 
-<!--
-**YouzDev/youzdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" max-width="50%" alt="gif" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" width="500"/>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Software Engineer Fullstack with a passion for hardware and electronics based in Paris, France. 
+
+I enjoy trying out new and interesting technologies.
+
+Currently into websites development, machine learning and blockchain tech.
+
+## Let's get in touch ⬇️
